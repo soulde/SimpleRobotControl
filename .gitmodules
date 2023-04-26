@@ -4,3 +4,6 @@
 [submodule "joystick_control"]
 	path = joystick_control
 	url = https://github.com/soulde/joystick_control.git
+[submodule "control_msgs"]
+	path = control_msgs
+	url = https://github.com/soulde/control_msgs.git
